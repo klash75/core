@@ -1,11 +1,9 @@
-package com.core.design.adapter;
+package com.core.design.dao;
 
 import org.junit.Test;
 
 /**
  * Created by klash75 on 9/23/2015.
- * <p>
- * Desing Pattern Application Test
  */
 public class AppTest {
 
@@ -14,5 +12,4 @@ public class AppTest {
         String[] args = {};
         App.main(args);
     }
-
 }
